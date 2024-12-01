@@ -1,0 +1,16 @@
+# Python cache files
+__pycache__/
+*.pyc
+
+# Virtual environment
+venv/
+
+# Environment variables
+.env
+
+# Flask-specific ignores
+instance/
+*.log
+
+# Jupyter notebook checkpoints
+.ipynb_checkpoints/
